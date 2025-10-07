@@ -18,39 +18,6 @@ DNA doesn’t just tell you where you’re from—it can show you *who you are*.
 - Family Tree Building (Traditional + Genetic)  
 - Citizenship by Descent Documentation  
 - Custom Genealogy Research Projects  
-### Gig Title:
-I will analyze your GEDmatch results and help you find unknown relatives
-
----
-
-### Description:
-Are you trying to make sense of your DNA results or searching for biological family? I specialize in GEDmatch analysis and genetic genealogy, helping clients uncover their roots and solve family mysteries.
-
-What I offer:
-✅ One-to-Many match analysis  
-✅ Segment triangulation and clustering  
-✅ Tier 1 tool interpretation  
-✅ Visual charts and written summary  
-✅ Ethical, compassionate guidance
-
-Perfect for adoptees, unknown parentage cases, or anyone seeking deeper insights from their DNA.
-
-Let’s turn your data into discovery.
-
----
-
-### Packages:
-**Basic ($75)** – Match review + summary  
-**Standard ($125)** – Full GEDmatch analysis + charts  
-**Premium ($300)** – Unknown parentage case + 3 consultations
-
----
-
-### Tags:
-GEDmatch, DNA analysis, genealogy, adoptee search, family tree, genetic genealogy
-
-
----
 
 ### Why Work With Me?
 
@@ -207,7 +174,6 @@ You can also connect with me on:
 
 ---
 
-Let me know if you’d like help setting up a Calendly booking link or designing the actual form layout. Next up, we can tackle your **Testimonials** page or start sketching your **Blog** section to show off your expertise. Want to keep going?
 ## What Clients Are Saying
 
 I take pride in delivering thoughtful, ethical, and results-driven genealogy and DNA research. Here’s what some of my clients have shared:
@@ -269,13 +235,8 @@ A breakdown of the premium tools, what they do, and when to use them.
 I take requests! If you have a question or topic you’d like me to explore, [contact me here](#) and I’ll add it to the queue.
 
 
-<!### Gig Title:
-I will analyze your GEDmatch results and help you find unknown relatives
-
 ---
 
-### Description:
-Are you trying to make sense of your DNA results or searching for biological family? I specialize in GEDmatch analysis and genetic genealogy, helping clients uncover their roots and solve family mysteries.
 
 What I offer:
 ✅ One-to-Many match analysis  
@@ -297,21 +258,10 @@ Let’s turn your data into discovery.
 
 ---
 
-### Tags:
-GEDmatch, DNA analysis, genealogy, adoptee search, family tree, genetic genealogy
---## Services
-
 
 Whether you're searching for biological family, exploring your ancestry, or trying to make sense of your DNA results, I offer personalized research and analysis tailored to your goals. Below are my core service packages—custom projects are always welcome.
 
 ---
-
-### 🔍 Basic DNA Match Review – $75
-- Review of top 10 matches from AncestryDNA, MyHeritage, or 23andMe
-- Relationship estimates and match grouping
-- Summary report with next steps
-
-**Best for:** Beginners who want help understanding their DNA results.
 
 ---
 
@@ -406,13 +356,3 @@ Book a free 15-minute consultation to discuss your goals and see which service f
 I typically respond within 24–48 hours. Evening and weekend appointments available upon request.
 
 ---
-
-### 💬 Social (Optional)
-You can also connect with me on:
-- [Facebook](#)
-- [LinkedIn](#)
-- [Instagram](#) (if you want to share case stories or blog posts)
-
----
-
-
