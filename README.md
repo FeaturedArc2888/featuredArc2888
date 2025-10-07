@@ -1,4 +1,4 @@
-## Hi there 👋Hi, I'm Tasha—a freelance genealogist and DNA researcher with a passion for uncovering family stories and solving genetic mysteries. Whether you're searching for unknown relatives, exploring your ancestry, or navigating GEDmatch, I offer personalized, ethical, and data-driven support. Let's turn your DNA into discovery.
+## Hi there.👋Hi, I'm Tasha—a freelance genealogist and DNA researcher with a passion for uncovering family stories and solving genetic mysteries. Whether you're searching for unknown relatives, exploring your ancestry, or navigating GEDmatch, I offer personalized, ethical, and data-driven support. Let's turn your DNA into discovery.
 
 ## Services
 
@@ -18,6 +18,37 @@ DNA doesn’t just tell you where you’re from—it can show you *who you are*.
 - Family Tree Building (Traditional + Genetic)  
 - Citizenship by Descent Documentation  
 - Custom Genealogy Research Projects  
+### Gig Title:
+I will analyze your GEDmatch results and help you find unknown relatives
+
+---
+
+### Description:
+Are you trying to make sense of your DNA results or searching for biological family? I specialize in GEDmatch analysis and genetic genealogy, helping clients uncover their roots and solve family mysteries.
+
+What I offer:
+✅ One-to-Many match analysis  
+✅ Segment triangulation and clustering  
+✅ Tier 1 tool interpretation  
+✅ Visual charts and written summary  
+✅ Ethical, compassionate guidance
+
+Perfect for adoptees, unknown parentage cases, or anyone seeking deeper insights from their DNA.
+
+Let’s turn your data into discovery.
+
+---
+
+### Packages:
+**Basic ($75)** – Match review + summary  
+**Standard ($125)** – Full GEDmatch analysis + charts  
+**Premium ($300)** – Unknown parentage case + 3 consultations
+
+---
+
+### Tags:
+GEDmatch, DNA analysis, genealogy, adoptee search, family tree, genetic genealogy
+
 
 ---
 
@@ -148,114 +179,10 @@ I take requests! If you have a question or topic you’d like me to explore, [co
 
 
 
-## Welcome to Tasha Genealogy
-
-DNA doesn’t just tell you where you’re from—it can show you *who you are*. Whether you're searching for biological family, building a verified family tree, or trying to make sense of your GEDmatch results, I’m here to help you uncover the story written in your genes.
 
 ---
 
-### 🔍 What I Do
-
-- DNA Match Analysis & GEDmatch Support  
-- Unknown Parentage & Adoptee Cases  
-- Family Tree Building (Traditional + Genetic)  
-- Citizenship by Descent Documentation  
-- Custom Genealogy Research Projects  
-
----
-
-### Why Work With Me?
-
-I combine technical precision with compassionate research. With experience in segment analysis, record retrieval, and genetic triangulation, I offer ethical, personalized support for every client—no matter how complex the case.
-
----
-
-### Ready to Begin?
-
-Let’s turn your DNA into discovery.  
-[Explore Services](#) | [Book a Free Call](#) | [Contact Me](#)
-## Services
-
-Whether you're searching for biological family, exploring your ancestry, or trying to make sense of your DNA results, I offer personalized research and analysis tailored to your goals. Below are my core service packages—custom projects are always welcome.
-
----
-
-### 🔍 Basic DNA Match Review – $75
-- Review of top 10 matches from AncestryDNA, MyHeritage, or 23andMe
-- Relationship estimates and match grouping
-- Summary report with next steps
-
-**Best for:** Beginners who want help understanding their DNA results.
-
----
-
-### 🧬 GEDmatch Deep Dive – $125
-- One-to-Many match analysis
-- Segment triangulation and clustering
-- Use of Tier 1 tools (if applicable)
-- Visual charts and written summary
-
-**Best for:** Clients with unknown parentage, adoptees, or advanced match analysis.
-
----
-
-### 🌳 Family Tree Build (Traditional + DNA) – $200+
-- Multi-generational tree construction using records and DNA
-- Match verification and source documentation
-- Delivered as PDF or online tree link
-
-**Best for:** Clients building a verified family tree or applying to lineage societies.
-
----
-
-### 🧩 Unknown Parentage Case – $300+
-- Full DNA analysis across platforms
-- Match triangulation and hypothesis testing
-- Ongoing consultation (up to 3 sessions)
-- Ethical guidance and emotional support resources
-
-**Best for:** Adoptees or those seeking biological family.
-
----
-
-### 🛠 Custom Research Projects – Starting at $100
-- Citizenship by descent documentation
-- Brick wall problem-solving
-- Historical record retrieval
-- Consultation-based pricing
-
-**Best for:** Unique cases or long-term research goals.
-
----
-
-### 📞 Consultations – $40/hour
-Need help interpreting your results or planning your next steps? Book a one-on-one session to get expert guidance.
-
----
-
-**Not sure which package fits your needs?** [Contact me](#) for a free 15-minute discovery call.
-
-## Contact Me
-
-Ready to start your genealogy journey or need help interpreting your DNA results? I’d love to hear from you.
-
-You can reach me directly or use the form below to request a consultation or ask a question.
-
----
-
-### 📧 Email
-**tasha@genealogyresearch.com**  
-(Replace with your actual email or use a contact form to avoid spam)
-
----
-
-### 📞 Discovery Call
-Book a free 15-minute consultation to discuss your goals and see which service fits best.
-
-[Schedule a Call](#)  
-(Use a tool like Calendly, Acuity, or Google Calendar for easy booking)
-
----
+-
 
 ### 📝 Contact Form
 
@@ -488,7 +415,4 @@ You can also connect with me on:
 
 ---
 
-Let me know if you’d like help setting up a Calendly booking link or designing the actual form layout. Next up, we can tackle your **Testimonials** page or start sketching your **Blog** section to show off your expertise. Want to keep going?
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
