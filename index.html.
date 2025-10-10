@@ -29,15 +29,25 @@
 
   <label for="message">Message:</label><br>
   <textarea id="message" name="message" required></textarea><br>
+<input type="hidden" name="_next" value="https://featuredarc2888.github.io/#success">
 
   <button type="submit" class="cta-button">Send</button>
 </form>
+<div id="success" style="display:none; margin-top: 20px;">
+  <p style="color: green; font-weight: bold;">✅ Thank you! Your message has been sent.</p>
+</div>
 
 
 
 
 </section>
 
+<script>
+  if (window.location.hash === "#success") {
+    document.getElementById("success").style.display = "block";
+    window.scrollTo(0, document.getElementById("success").offsetTop);
+  }
+</script>
 
 </body>
 </html>
