@@ -68,7 +68,20 @@ form button {
   font-weight: bold;
   display: inline-block;
   margin-top: 20px;
-  transition: background-color 0.3s ease;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.cta-button:hover {
+  background-color: #3a56a5;
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+.cta-button:focus,
+.cta-button:active {
+  outline: none;
+  background-color: #2f448c;
 }
 
 .cta-button:hover {
