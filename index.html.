@@ -13,7 +13,8 @@
 
   <!-- Your Info (Static Display) -->
   <p><strong>Name:</strong> Tasha [Your Last Name]</p>
-  <p><strong>Phone:</strong> <a href="tel:+19894518711">call or text +1 989-451-8711</a></p>
+  <p><strong>Phone:</strong> <a href="tel:+19894518711" class="phone-link">📞 call or text +1 989-451-8711</a></p>
+
 
 
   <p><strong>Email:</strong> yourname@example.com</p>
