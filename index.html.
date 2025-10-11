@@ -14,6 +14,11 @@
   <!-- Your Info (Static Display) -->
   <p><strong>Name:</strong> Tasha [Your Last Name]</p>
   <p><strong>Phone:</strong> <a href="tel:+19894518711" class="phone-link">📞 call or text +1 989-451-8711</a></p>
+<p>
+  <a href="tel:+19894518711" class="contact-link">📞 call or text +1 989-451-8711</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:featuredarc2888@gmail.com" class="contact-link">📧 featuredarc2888@gmail.com</a>
+</p>
 
 
 
