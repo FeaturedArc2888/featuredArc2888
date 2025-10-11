@@ -41,9 +41,11 @@
 
   <button type="submit" class="cta-button">Send</button>
 </form>
-<div id="success" style="display:none; margin-top: 20px;">
-  <p style="color: green; font-weight: bold;">✅ Thank you! Your message has been sent.</p>
+<div class="contact-flex">
+  <a href="tel:+19894518711" class="contact-link">📞 call or text +1 989-451-8711</a>
+  <a href="mailto:featuredarc2888@gmail.com" class="contact-link">📧 featuredarc2888@gmail.com</a>
 </div>
+
 
 
 
