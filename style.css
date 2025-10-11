@@ -100,14 +100,41 @@ footer {
   padding: 20px;
   font-size: 0.9em;
 }
+
+
 .phone-link {
-  color: #0077cc; /* or your brand color */
+  color: #0077cc;
   text-decoration: none;
   font-weight: bold;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.phone-link {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
 }
 
 .phone-link:hover {
   color: #005fa3;
   text-decoration: underline;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
